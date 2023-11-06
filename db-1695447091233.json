@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "firstname": "sourav",
+      "lastname": "patel",
+      "birthdate": "1998-11-22",
+      "gender": "f",
+      "education": "10th pass",
+      "company": "hcl",
+      "jobExperience": 4,
+      "salary": 16,
+      "profile": "employee5.jpeg",
+      "id": 1
+    },
+    {
+      "firstname": "aaa",
+      "lastname": "aaa",
+      "birthdate": "2023-08-07",
+      "gender": "m",
+      "education": "graduate",
+      "company": "tcs",
+      "jobExperience": 2,
+      "salary": 8,
+      "profile": "employee2.jpeg",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
